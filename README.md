@@ -2,7 +2,7 @@
 ### Overview
 This project explores the TMDB Movies Dataset to uncover trends in movie production, budgeting, and popularity using data visualization and statistical summaries.
 
-### Exploratory Data Analysis - TMDB Movies Dataset
+### Exploratory Data Analysis (EDA) - TMDB Movies Dataset
 - Analyzes trends in movie budgets and release patterns over time, showing increasing budgets and peak release months.
 - Identifies top-earning films (e.g., Avatar) and the most popular genres (Drama, Comedy, Thriller).
 - Computes average movie runtime (~109 minutes) and visualizes distribution and outliers using boxplots.
