@@ -1,4 +1,4 @@
-# TMDB Movies Dataset- Exploratory Data Analysis
+# TMDB Movies Dataset - Exploratory Data Analysis
 ### Overview
 This project explores the TMDB Movies Dataset to uncover trends in movie production, budgeting, and popularity using data visualization and statistical summaries.
 
